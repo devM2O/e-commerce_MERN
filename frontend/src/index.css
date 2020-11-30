@@ -6,6 +6,11 @@ h3 {
   padding: 1rem 0;
 }
 
+strong {
+  width: 50px;
+  overflow: hidden;
+}
+
 .rating span {
   margin: 0.1rem;
 }
